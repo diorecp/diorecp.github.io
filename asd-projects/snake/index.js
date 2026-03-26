@@ -101,7 +101,7 @@ function checkForNewDirection(event) {
     snake.head.direction = "left";
   }
 
-  // FILL IN THE REST
+  //I need to FILL IN THE REST
 
   // console.log(snake.head.direction);     // uncomment me!
 }
